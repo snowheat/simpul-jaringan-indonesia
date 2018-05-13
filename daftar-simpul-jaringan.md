@@ -154,7 +154,7 @@
 * http://222.124.31.141:6080/arcgis/rest/services
 
 ### Jawa Barat
-* http://geodatabase.pusdalisbang.jabarprov.go.id:8399/arcgis/rest/services (litbang)
+* http://geodatabase.pusdalisbang.jabarprov.go.id:8399/arcgis/rest/services/uptb (litbang)
 
 ### Bali
 * http://geoportal.baliprov.go.id:6080/arcgis/rest/services
